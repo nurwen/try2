@@ -1,0 +1,24 @@
+► ► ► The Note
+- ctr + c  -- interrupt current command
+
+- git init  -- initialize git
+- git add filename.txt   -- add the file to staging area
+- git status   -- see files not yet in staging area
+- git commit -m "Add new code"
+- git log    --see what you had commited
+- git diff filename.txt   -- show the difference
+- git checkout filename.txt  -- role back to last commited 
+- git remote add origin https://github.com/nurwen/story.git
+- git push -u origin master 
+- touch .gitignore 
+- git rm --cached -r .
+- open file.extention
+- git cllone
+- git branch branchname   --- create new branch
+- git branch  --- list all branch
+- git checkout branchname  --- switch branch
+- git merge 'other branch name'  --- go back first at master branch 
+
+- clone
+- fork
+
