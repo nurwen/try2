@@ -212,7 +212,13 @@ header div h2 a:hover {
   #contactSection > h1{
     margin-top: 15%; 
   }
-
+  #contactSection > form > #email{
+    max-width: 100%;
+  }
+  #contactSection > form > #message{
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
   .gallery{
     display: flex;
     flex-direction: column;
